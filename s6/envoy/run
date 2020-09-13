@@ -1,0 +1,2 @@
+#!/usr/bin/with-contenv sh
+/usr/local/bin/envoy -c /etc/envoy/envoy.yaml
